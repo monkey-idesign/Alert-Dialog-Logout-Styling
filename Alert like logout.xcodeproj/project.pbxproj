@@ -14,6 +14,7 @@
 		189630F5227C3710008396C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 189630F3227C3710008396C6 /* LaunchScreen.storyboard */; };
 		18963100227C3711008396C6 /* Alert_like_logoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189630FF227C3711008396C6 /* Alert_like_logoutTests.swift */; };
 		1896310B227C3711008396C6 /* Alert_like_logoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1896310A227C3711008396C6 /* Alert_like_logoutUITests.swift */; };
+		18963119227C37CF008396C6 /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18963118227C37CF008396C6 /* extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		18963106227C3711008396C6 /* Alert like logoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Alert like logoutUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1896310A227C3711008396C6 /* Alert_like_logoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert_like_logoutUITests.swift; sourceTree = "<group>"; };
 		1896310C227C3711008396C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18963118227C37CF008396C6 /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				189630EA227C370D008396C6 /* AppDelegate.swift */,
 				189630EC227C370D008396C6 /* ViewController.swift */,
+				18963118227C37CF008396C6 /* extensions.swift */,
 				189630EE227C370D008396C6 /* Main.storyboard */,
 				189630F1227C3710008396C6 /* Assets.xcassets */,
 				189630F3227C3710008396C6 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				189630ED227C370D008396C6 /* ViewController.swift in Sources */,
 				189630EB227C370D008396C6 /* AppDelegate.swift in Sources */,
+				18963119227C37CF008396C6 /* extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
